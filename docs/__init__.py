@@ -1,0 +1,1 @@
+"""Editable academic report source."""

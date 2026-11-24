@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "algorithm": "ECDSA",
+  "hash": "SHA-256",
+  "key_profile": "P-256",
+  "signature_base64": "MEUCIQCown6xaEOqht/3o+IBbDN++MXvWn6K5HOusyvbVUYnmgIgBQgeQQjT/aM9p8W2N3a0FBDA8UuK7GjHy6z6LbMKiyQ="
+}

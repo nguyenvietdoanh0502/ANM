@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "algorithm": "RSA-PSS",
+  "hash": "SHA-512",
+  "key_profile": "RSA-3072-e65537",
+  "signature_base64": "S1XfgJ6wPoaDbyGykpC72P48Zf5NjracECdnArFrUGbF3Jg5rMuqyzCyz1WyGXG/51KutHV7VPfAqg85UPAr6nRFbDIv6AOLLQKLi9CtEN5eAGZ7kdGDnqNF8f9/shURACXl0nSu9Uw8Dxve+sz4sT69dvpD0n211vd22TKgpvIfiylDy/vzyDGn6yZKwFsUiK7JiIbNJaKGN5ZaYmJzRms3FQvTwftpbfsMwR7D4OD0ipnxj5OFheafvIDQtD+CozTouJBuJ5KXXjx6T71dxjUFrA4dnr0Aaomioez0JxI2C6W86h5B+lE9IVhPxE2/1GLBD/oIZInGMvk/jWtvfCFHUo4aLuuwP7qo810z0qlkp0Zu398vThZkKdBoT3itt8DFJ6RQnWT90vnDt5VHD/jb0Q7EGAWh8GA/gqWZ/Xa2tmW2n3RrlvZC7mYsLGVuHITob01ad6FQY+Ypa/Uh77DBWux2End5kdtSDz87E5jSlQbZ2LUT2IRvXGGlr5Pn"
+}

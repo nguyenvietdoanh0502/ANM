@@ -1,0 +1,5 @@
+﻿algorithm,hash,public_spki_der_bytes,signature_min_bytes,signature_max_bytes,signature_mean_bytes
+ECDSA,SHA-256,91,70,72,70.91
+ECDSA,SHA-512,91,69,72,71.02
+RSA-PSS,SHA-256,422,384,384,384.0
+RSA-PSS,SHA-512,422,384,384,384.0

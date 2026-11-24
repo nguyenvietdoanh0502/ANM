@@ -1,0 +1,11 @@
+[project]
+name = "ecc-signature-lab"
+version = "1.0.0"
+description = "Vietnamese ECC and RSA digital signature teaching laboratory"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+

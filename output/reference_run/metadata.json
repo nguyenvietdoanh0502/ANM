@@ -1,0 +1,25 @@
+{
+  "recorded_at_utc": "2026-11-15T14:48:30.883655+00:00",
+  "os": "Windows-11-10.0.26200-SP0",
+  "cpu": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+  "logical_cpus": 12,
+  "ram_gib": 15.73,
+  "python": "3.13.0",
+  "cryptography": "49.0.0",
+  "openssl": "OpenSSL 4.0.1 9 Jun 2026",
+  "config": {
+    "iterations": 100,
+    "warmup": 10,
+    "key_iterations": 20,
+    "sizes": [
+      1024,
+      102400,
+      1048576,
+      10485760
+    ]
+  },
+  "dataset": "repeat bytes 0..255 then truncate; identical across algorithms",
+  "clock": "time.perf_counter_ns",
+  "units": "milliseconds",
+  "notes": "Sequential execution; fixed algorithm order; warmup excluded; no disk/UI inside timing. Host background load is not controlled."
+}

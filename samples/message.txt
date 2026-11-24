@@ -1,0 +1,2 @@
+Tôi xác nhận nội dung bài tập lớn An ninh mạng.
+Đề tài: ECC và chữ ký số.
